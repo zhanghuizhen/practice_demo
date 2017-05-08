@@ -1,10 +1,10 @@
 # 问题集2
 
 ## 1、个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
-new repository  库
-import repository 导入库
-new gist 代码片段
-new organization 新建组织
+new repository  库  
+import repository 导入库    
+new gist 代码片段  
+new organization 新建组织  
 
 ## 2、如何能将仓库中的html文件直接解析成页面？
 settings -> GitHub Pages -> Source ->Select source ->master branch -> Save ->url
